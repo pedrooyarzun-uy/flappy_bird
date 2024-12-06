@@ -6,3 +6,5 @@ El mismo fue realizado en el marco del proyecto obligatorio para la materia **Ar
 
 ## ¿Como jugar?
 
+- Instalar logisim haciendo [click aqui](http://www.cburch.com/logisim/)
+  
