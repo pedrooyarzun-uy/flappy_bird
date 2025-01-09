@@ -9,6 +9,7 @@ El mismo fue realizado en el marco del proyecto obligatorio para la materia **Ar
 - Instalar logisim haciendo [click aqui](http://www.cburch.com/logisim/)
 - Abrir Logisim
 - Abrir el archivo Arq.circ con **CTRL + O**
+- - Hola
 
 ## ¡Disfruta el juego!
   
